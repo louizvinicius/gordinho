@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Gordinho Motos — Votorantim / SP
+Sitemap: https://www.gordinhomotos.com.br/sitemap.xml
